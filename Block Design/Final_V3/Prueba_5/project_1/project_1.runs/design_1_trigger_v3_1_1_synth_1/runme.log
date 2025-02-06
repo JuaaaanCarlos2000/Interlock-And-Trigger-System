@@ -1,0 +1,21 @@
+
+*** Running vivado
+    with args -log design_1_trigger_v3_1_1.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_trigger_v3_1_1.tcl
+
+
+****** Vivado v2021.2.1 (64-bit)
+  **** SW Build 3414424 on Sun Dec 19 10:57:14 MST 2021
+  **** IP Build 3405791 on Sun Dec 19 15:54:35 MST 2021
+    ** Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+
+source design_1_trigger_v3_1_1.tcl -notrace
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository '/opt/Xilinx/Projects/Proyecto_TFM/1/ip_repo/Latch_v2'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository '/opt/Xilinx/Projects/Proyecto_TFM/1/ip_repo/Latch_v3/ip_repo'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository '/opt/Xilinx/Projects/Proyecto_TFM/1/ip_repo/Interlock_v3/ip_repo'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository '/opt/Xilinx/Projects/Proyecto_TFM/1/ip_repo/Trigger_v3/ip_repo'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository '/opt/Xilinx/Projects/Proyecto_TFM/1/ip_repo/Trigger_v2/ip_repo'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository '/opt/Xilinx/Projects/Proyecto_TFM/1/ip_repo/Interlock_v2/ip_repo'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/opt/Xilinx/Vivado/2021.2/data/ip'.
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP design_1_trigger_v3_1_1, cache-ID = a98624f4b210ac37.
+INFO: [Common 17-206] Exiting Vivado at Tue Jun 11 12:03:06 2024...

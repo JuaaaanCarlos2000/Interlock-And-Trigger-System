@@ -1,0 +1,34 @@
+verilog xil_defaultlib --include "/opt/Xilinx/Vivado/2021.2/data/xilinx_vip/include" --include "../../../../project_1.gen/sources_1/bd/design_1/ipshared/ec67/hdl" --include "../../../../project_1.gen/sources_1/bd/design_1/ipshared/3007/hdl" \
+"../../../bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v" \
+"../../../bd/design_1/ip/design_1_xbar_0/sim/design_1_xbar_0.v" \
+"../../../bd/design_1/ip/design_1_tier2_xbar_0_0/sim/design_1_tier2_xbar_0_0.v" \
+"../../../bd/design_1/ip/design_1_tier2_xbar_1_0/sim/design_1_tier2_xbar_1_0.v" \
+"../../../bd/design_1/ip/design_1_tier2_xbar_2_0/sim/design_1_tier2_xbar_2_0.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_0/sim/design_1_auto_pc_0.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_4/sim/design_1_auto_pc_4.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_1/sim/design_1_auto_pc_1.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_2/sim/design_1_auto_pc_2.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_3/sim/design_1_auto_pc_3.v" \
+"../../../bd/design_1/ipshared/96b5/hdl/Interlock_v3_v1_0_S_AXI.v" \
+"../../../bd/design_1/ipshared/96b5/hdl/Interlock_v3_v1_0.v" \
+"../../../bd/design_1/ip/design_1_Interlock_v3_0_1/sim/design_1_Interlock_v3_0_1.v" \
+"../../../bd/design_1/ipshared/ffb9/hdl/trigger_v3_v1_0_S_AXI.v" \
+"../../../bd/design_1/ipshared/ffb9/hdl/trigger_v3_v1_0.v" \
+"../../../bd/design_1/ip/design_1_trigger_v3_0_0/sim/design_1_trigger_v3_0_0.v" \
+"../../../bd/design_1/ipshared/6b40/hdl/Latch_v3_v1_0_S_AXI.v" \
+"../../../bd/design_1/ipshared/6b40/hdl/Latch_v3_v1_0.v" \
+"../../../bd/design_1/ip/design_1_Latch_v3_0_0/sim/design_1_Latch_v3_0_0.v" \
+"../../../bd/design_1/ip/design_1_Latch_v3_0_1/sim/design_1_Latch_v3_0_1.v" \
+"../../../bd/design_1/ip/design_1_Latch_v3_1_0/sim/design_1_Latch_v3_1_0.v" \
+"../../../bd/design_1/ip/design_1_Latch_v3_1_1/sim/design_1_Latch_v3_1_1.v" \
+"../../../bd/design_1/ip/design_1_Latch_v3_1_2/sim/design_1_Latch_v3_1_2.v" \
+"../../../bd/design_1/ip/design_1_Latch_v3_1_3/sim/design_1_Latch_v3_1_3.v" \
+"../../../bd/design_1/ip/design_1_Latch_v3_1_4/sim/design_1_Latch_v3_1_4.v" \
+"../../../bd/design_1/ip/design_1_Latch_v3_1_5/sim/design_1_Latch_v3_1_5.v" \
+"../../../bd/design_1/ip/design_1_xlconcat_0_0/sim/design_1_xlconcat_0_0.v" \
+"../../../bd/design_1/ip/design_1_trigger_v3_0_1/sim/design_1_trigger_v3_0_1.v" \
+"../../../bd/design_1/sim/design_1.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

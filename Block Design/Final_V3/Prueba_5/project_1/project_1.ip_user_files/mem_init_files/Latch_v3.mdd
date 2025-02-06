@@ -1,0 +1,10 @@
+
+
+OPTION psf_version = 2.1;
+
+BEGIN DRIVER Latch_v3
+	OPTION supported_peripherals = (Latch_v3);
+	OPTION copyfiles = all;
+	OPTION VERSION = 1.0;
+	OPTION NAME = Latch_v3;
+END DRIVER

@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2.1 (64-bit)
+# SW Build 3414424 on Sun Dec 19 10:57:14 MST 2021
+# IP Build 3405791 on Sun Dec 19 15:54:35 MST 2021
+# Start of session at: Mon Jun  3 16:39:59 2024
+# Process ID: 110761
+# Current directory: /opt/Xilinx/Projects/Proyecto_TFM/1/Prueba_4/Prueba_4/Prueba_4.runs/design_1_processing_system7_0_0_synth_1
+# Command line: vivado -log design_1_processing_system7_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_processing_system7_0_0.tcl
+# Log file: /opt/Xilinx/Projects/Proyecto_TFM/1/Prueba_4/Prueba_4/Prueba_4.runs/design_1_processing_system7_0_0_synth_1/design_1_processing_system7_0_0.vds
+# Journal file: /opt/Xilinx/Projects/Proyecto_TFM/1/Prueba_4/Prueba_4/Prueba_4.runs/design_1_processing_system7_0_0_synth_1/vivado.jou
+# Running On: juancarlos-HP-EliteBook-640-14-inch-G9-Notebook-PC, OS: Linux, CPU Frequency: 2100.000 MHz, CPU Physical cores: 12, Host memory: 16379 MB
+#-----------------------------------------------------------
+source design_1_processing_system7_0_0.tcl -notrace

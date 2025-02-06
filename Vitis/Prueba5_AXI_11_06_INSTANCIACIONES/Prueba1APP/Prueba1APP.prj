@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="Prueba1APP" location="/opt/Xilinx/Vitis_Workspace/AXI_Pruebas/Prueba5_AXI_11_06_INSTANCIACIONES/Prueba1APP" platform="/opt/Xilinx/Vitis_Workspace/AXI_Pruebas/Prueba5_AXI_11_06_INSTANCIACIONES/Prueba1/export/Prueba1/Prueba1.xpfm" platformUID="xilinx:pynq-z2::0.0(custom)" systemProject="Prueba1APP_system" sysConfig="Prueba1" runtime="C/C++" cpu="standalone_domain" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="69a7b39fb0c5f85c997c13838ba8cbcf">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.881764283">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.207466925" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

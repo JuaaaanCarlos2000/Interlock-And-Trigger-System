@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# Vivado v2021.2.1 (64-bit)
+# SW Build 3414424 on Sun Dec 19 10:57:14 MST 2021
+# IP Build 3405791 on Sun Dec 19 15:54:35 MST 2021
+# Start of session at: Tue Jun 11 12:02:57 2024
+# Process ID: 30760
+# Current directory: /opt/Xilinx/Projects/Proyecto_TFM/1/Prueba_5/project_1/project_1.runs/design_1_trigger_v3_1_1_synth_1
+# Command line: vivado -log design_1_trigger_v3_1_1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_trigger_v3_1_1.tcl
+# Log file: /opt/Xilinx/Projects/Proyecto_TFM/1/Prueba_5/project_1/project_1.runs/design_1_trigger_v3_1_1_synth_1/design_1_trigger_v3_1_1.vds
+# Journal file: /opt/Xilinx/Projects/Proyecto_TFM/1/Prueba_5/project_1/project_1.runs/design_1_trigger_v3_1_1_synth_1/vivado.jou
+# Running On: juancarlos-HP-EliteBook-640-14-inch-G9-Notebook-PC, OS: Linux, CPU Frequency: 2100.000 MHz, CPU Physical cores: 12, Host memory: 16379 MB
+#-----------------------------------------------------------
+source design_1_trigger_v3_1_1.tcl -notrace
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository '/opt/Xilinx/Projects/Proyecto_TFM/1/ip_repo/Latch_v2'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository '/opt/Xilinx/Projects/Proyecto_TFM/1/ip_repo/Latch_v3/ip_repo'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository '/opt/Xilinx/Projects/Proyecto_TFM/1/ip_repo/Interlock_v3/ip_repo'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository '/opt/Xilinx/Projects/Proyecto_TFM/1/ip_repo/Trigger_v3/ip_repo'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository '/opt/Xilinx/Projects/Proyecto_TFM/1/ip_repo/Trigger_v2/ip_repo'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository '/opt/Xilinx/Projects/Proyecto_TFM/1/ip_repo/Interlock_v2/ip_repo'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/opt/Xilinx/Vivado/2021.2/data/ip'.
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP design_1_trigger_v3_1_1, cache-ID = a98624f4b210ac37.
+INFO: [Common 17-206] Exiting Vivado at Tue Jun 11 12:03:06 2024...
